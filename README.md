@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://cavi2016.github.io/QR-Code/
+- Solution URL: https://github.com/cavi2016/QR-Code
 - Live Site URL: https://cavi2016.github.io/QR-Code/
 
 ## My process
